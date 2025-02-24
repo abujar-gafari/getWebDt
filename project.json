@@ -1,7 +1,7 @@
 {
-  "name": "treetmantReport",
+  "name": "getWebData",
   "projectId": "770f0144-0029-4a21-9bcf-8f4d5cb3dc3a",
-  "description": " treetmant Report",
+  "description": " get Web Data",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.25.1-preview]",
